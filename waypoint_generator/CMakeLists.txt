@@ -21,8 +21,7 @@ find_package(catkin REQUIRED COMPONENTS
   tf
   nav_msgs
 )
-
-#catkin_package()
+catkin_package()
 
 include_directories(include)
 include_directories(
