@@ -1,6 +1,6 @@
 <package>
   <version> 0.0.0 </version>
-  <name> rviz_plugins </name>
+  <name>rviz_plugins</name>
   <description>
 
     Additional plugins for RViz
